@@ -1,8 +1,8 @@
 -- =============================================================
--- Project:  PostgreSQL DBA Portfolio Project
+-- Project:  PostgreSQL DBA
 -- Phase:    1 - Schema Design and Data Loading
 -- Script:   01_create_schema_and_tables.sql
--- Author:   Nasa Ryobee
+-- Author:   Naseer Aryobee
 -- Date:     2026-06-02
 -- Purpose:  Create the cms schema and core tables for the
 --           Medicare Physician & Other Practitioners dataset.
