@@ -1,4 +1,4 @@
-# PostgreSQL DBA Portfolio Project
+# PostgreSQL DBA Project
 
 This is an end-to-end PostgreSQL database administration project that I built 
 using real-world public healthcare data from the Centers for Medicare & Medicaid 
