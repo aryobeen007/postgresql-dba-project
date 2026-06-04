@@ -14,13 +14,14 @@ production healthcare analytics database workload.
 
 ## Phases
 
-| Phase | Topic | Status |
-|-------|-------|--------|
-| 1 | Schema Design and Data Loading | ✅ Complete |
-| 2 | Baseline Measurement and Diagnostics | 🔄 In Progress |
-| 3 | Performance Optimization | ⏳ Upcoming |
-| 4 | Operations and High Availability | ⏳ Upcoming |
-| 5 | Security and Compliance | ⏳ Upcoming |
+| Phase | Topic                                | Status     |
+| ----- | ------------------------------------ | ---------- |
+| 1     | Schema Design and Data Loading       | ✅ Complete |
+| 2     | Baseline Measurement and Diagnostics | ✅ Complete |
+| 3     | Performance Optimization             | ✅ Complete |
+| 4     | Operations and High Availability     | ✅ Complete |
+| 5     | Security and Compliance              | ✅ Complete |
+| 6     | Portfolio Integration                | ✅ Complete |
 
 ## Dataset
 
